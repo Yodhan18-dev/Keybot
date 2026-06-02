@@ -273,7 +273,7 @@ async def cmd_start(update: Update, ctx: ContextTypes.DEFAULT_TYPE) -> None:
             "👋 Hello! You are *not* authorised yet.\n\n"
             "To take a valid plan, contact us:\n"
             "📞 Phone/WhatsApp: 9502183889\n"
-            "📸 Instagram: @Yodhan_18\n\n"
+            "📸 Telegram: @Yodhanx18\n\n"
             "Once you have a plan, use /request to apply for access.",
             parse_mode="Markdown",
         )
